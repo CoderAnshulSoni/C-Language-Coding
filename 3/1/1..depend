@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1593503334 source:c:\users\soni\desktop\dont touch\1.\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1593503334 source:c:\users\soni\desktop\dont touch\iii\1\main.c
+	<stdio.h>
+	<stdlib.h>
+
