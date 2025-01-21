@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607400626 source:f:\college\codeblocks\12.structure\date comparision\main.c
+	<stdio.h>
+	<stdlib.h>
+
