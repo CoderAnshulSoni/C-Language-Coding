@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580032480 source:f:\college\odd number sum\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1580128496 source:f:\college\codeblocks\odd number sum\main.c
+	<stdio.h>
+	<stdlib.h>
+
