@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604218074 source:f:\college\codeblocks\11.array practice\12.\main.c
+	<stdio.h>
+	<stdlib.h>
+
