@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581564037 source:c:\ta 1 anshul\+ve,-ve,0 numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
