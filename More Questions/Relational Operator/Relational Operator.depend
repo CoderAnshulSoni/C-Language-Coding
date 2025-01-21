@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580961643 source:c:\ta1 anshul\relational operator\main.c
+	<stdio.h>
+	<stdlib.h>
+
