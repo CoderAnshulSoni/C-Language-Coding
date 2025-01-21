@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600586150 source:f:\college\codeblocks\recurssion\10\main.c
+	<stdio.h>
+	<stdlib.h>
+
