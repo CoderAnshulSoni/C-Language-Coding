@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582000400 source:c:\ta 1 anshul\upper case\main.c
+	<stdio.h>
+	<stdlib.h>
+

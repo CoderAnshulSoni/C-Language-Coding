@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581669732 source:c:\ta 1 anshul\traingle\main.c
+	<stdio.h>
+	<stdlib.h>
+
