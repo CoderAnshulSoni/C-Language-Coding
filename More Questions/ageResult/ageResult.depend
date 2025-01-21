@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597634531 source:f:\college\codeblocks\practice\ageresult\main.c
+	<stdio.h>
+	<stdlib.h>
+

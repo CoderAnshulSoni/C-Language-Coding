@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581999872 source:c:\ta3_nitish\digit\main.c
+	<stdio.h>
+	<stdlib.h>
+
