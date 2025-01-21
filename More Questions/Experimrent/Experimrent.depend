@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1596544637 source:c:\users\soni\desktop\dont touch\experimrent\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1599566068 source:f:\college\codeblocks\experimrent\main.c
+	<stdio.h>
+	<stdlib.h>
+

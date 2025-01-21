@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580965512 source:c:\ta1 anshul\discount\main.c
+	<stdio.h>
+	<stdlib.h>
+
